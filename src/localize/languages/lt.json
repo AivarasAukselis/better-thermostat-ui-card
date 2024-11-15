@@ -1,0 +1,28 @@
+{
+  "common": {
+    "version": "versija",
+    "current": "dabartinis"
+  },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Išjungti lango indikatorių",
+        "disable_summer": "Išjungti vasaros rėžimą ",
+        "disable_eco": "Išjungti eko rėžimą",
+        "disable_heat": "Išjungti šildymo rėžimą",
+        "disable_off": "Išjungti išjungimą",
+        "disable_menu": "Išjungti meniu",
+        "disable_battery_warning": "Išjungti baterijos įspėjimą",
+        "disable_buttons": "Išjungti plius/minus mygtukus",
+        "eco_temperature": "Eko rėžimo temperatūra",
+        "set_current_as_main": "Sukeisti vietomis tikslą su esamos temperatūra"
+      }
+    }
+  },
+  "extra_states": {
+    "window_open": "Atidarytas langas",
+    "night_mode": "Naktinis rėžimas",
+    "eco": "Eko rėžimas",
+    "summer": "Vasaros rėžimas"
+  }
+}
